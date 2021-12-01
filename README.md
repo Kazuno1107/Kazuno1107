@@ -34,7 +34,10 @@
 https://kazuno1107.github.io/ (随時工事中)
 
 ## 関連リンク
-
+[筑波大学](https://www.tsukuba.ac.jp/) <br>
+[筑波大学計算科学研究センター](https://www.ccs.tsukuba.ac.jp/) <br>
+[筑波大学宇宙物理理論研究室](https://www2.ccs.tsukuba.ac.jp/Astro/home/ja/) <br>
+[筑波大学大学院教育学学位プログラム](https://www.education.tsukuba.ac.jp/edu-mp/) <br>
 
 <!--
 **Kazuno1107/Kazuno1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
