@@ -31,7 +31,7 @@
 
 
 ## ホームページ
-https://kazuno1107.github.io/ (随時工事中)
+<a href="https://kazuno1107.github.io" target="_blank">https://kazuno1107.github.io</a>
 
 ## 関連リンク
 [筑波大学](https://www.tsukuba.ac.jp/) <br>
