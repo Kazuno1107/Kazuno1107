@@ -1,5 +1,5 @@
 # プロフィール
-名前：数野優大(Yudai Kazuno)　<br>
+名前：数野 優大(Yudai Kazuno)　<br>
 出身：埼玉県上尾市　<br>
 
 
@@ -31,7 +31,8 @@
 2022/03/02-05：[日本天文学会2022年春季年会@オンライン（口頭発表予定）](https://www.asj.or.jp/nenkai/archive/2022a/)
 
 ## ホームページ
-<a href="https://kazuno1107.github.io" target="_blank" rel="noopener noreferrer">https://kazuno1107.github.io</a>
+<!-- <a href="https://kazuno1107.github.io" target="_blank" rel="noopener noreferrer">https://kazuno1107.github.io</a> -->
+/* 工事中 */
 
 ## 関連リンク
 [筑波大学](https://www.tsukuba.ac.jp/) <br>
